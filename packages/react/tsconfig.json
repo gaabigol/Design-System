@@ -1,0 +1,5 @@
+
+  {
+    "extends": "@innova-ui/ts-config/react.json",
+    "include": ["src"]
+  }
